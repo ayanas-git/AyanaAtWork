@@ -48,7 +48,14 @@ This project documents a biomonitoring study designed to evaluate baseline expos
 
 ---
 
-## Licensing
+## 📜 License
 
 This project is included in this portfolio for educational and demonstrative purposes. Please contact the original authors or the Virginia DCLS for permissions related to reuse.
 
+This work is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. Attribution is required, but no commercial use or derivative works are permitted without express permission.
+
+## 🙋🏽‍♀️ About Me
+
+I’m Ayana Andrews-Joseph — a data analyst, creative technologist, and behavioral systems thinker. My work lives at the intersection of strategy, tech, and community.
+
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/aajoseph)
