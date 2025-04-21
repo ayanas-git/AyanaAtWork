@@ -70,11 +70,15 @@ Implementation of this project will span **9 to 12 months**, depending on resour
 
 🕒 **Total Estimated Timeline**: 9–12 months
 
-## Tools & Technologies
+#### Figure: Proposed Timeline for Project Implementation
 
-To ensure transparency, reproducibility, and integration into existing systems, the following tools and libraries are recommended:
+![Proposed Timeline for Project Implementation](./projectdocs/liver_waitlist_optimization_timeline.png)
+
+>Note: The timeline may vary based on the organization’s recent EHR migration and data readiness.
 
 ## 🛠️ Tools & Technologies
+
+To ensure transparency, reproducibility, and integration into existing systems, the following tools and libraries are recommended:
 
 | Purpose | Tools & Technologies |
 | :---- | :---- |
