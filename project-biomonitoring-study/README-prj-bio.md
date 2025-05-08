@@ -35,7 +35,7 @@ This project documents a biomonitoring study designed to evaluate baseline expos
 
 ## APHL Presentation Poster
 
-![Virginia Biomonitoring Poster](./prjviz//aphl-cdc-dgs_virginia-biomonitoring-poster.png)
+![Virginia Biomonitoring Poster](./projectdocs/aphl-cdc-dgs_virginia-biomonitoring-poster.png)
 
 ## Key Findings
 
