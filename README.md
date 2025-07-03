@@ -1,4 +1,4 @@
-# 👩🏽‍💻 A@Work
+# A@Work
 
 Welcome to my professional playground — a curated portfolio of data-driven projects that reflect my skills in analytics, platform strategy, and behavioral modeling.
 
