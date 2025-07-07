@@ -1,0 +1,18 @@
+# AyanaAtWork Git Repository - .gitignore file
+
+# Ignore personal import/setup PowerShell scripts
+*import-*.ps1
+
+# Ignore backup or temporary files
+*.bak
+*.tmp
+*.old
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore project-specific Git configs (if any)
+.gitconfig
+
+# Ignore Node.js modules
+node_modules/
