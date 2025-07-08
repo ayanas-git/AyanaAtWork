@@ -1,4 +1,9 @@
 # AyanaAtWork Git Repository - .gitignore file
+# Ignore all dev files and folders by default
+# This is a global ignore rule that applies to all files and folders
+# except those explicitly allowed below.
+dev/
+dev/**
 
 # Ignore personal import/setup PowerShell scripts
 *import-*.ps1
@@ -7,6 +12,7 @@
 *.bak
 *.tmp
 *.old
+*.ini
 
 # Ignore VS Code settings
 .vscode/
